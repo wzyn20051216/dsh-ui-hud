@@ -9,8 +9,6 @@
 [![dsh](https://img.shields.io/badge/dsh-0.1.0--rc.6-blueviolet)](https://github.com/deepseek-ai/deepseek-harness)
 [![node](https://img.shields.io/badge/node-%3E%3D18-6d9af6)](package.json)
 
-> 灵感来源：[Datawhale hello-agents 第8章《记忆与检索》](https://datawhalechina.github.io/hello-agents/#/./chapter8/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E8%AE%B0%E5%BF%86%E4%B8%8E%E6%A3%80%E7%B4%A2)——把「工作/情景/语义/感知」四种记忆类型做成了可视化面板。
-
 </div>
 
 ---
@@ -31,7 +29,7 @@
 
 ### 2️⃣ 记忆中心 · Memory Hub（生态空白点：记忆可视化面板）
 
-| 页签 | hello-agents 对应 | 内容 |
+| 页签 | 记忆类型 | 内容 |
 |---|---|---|
 | **情景** | Episodic | 会话时间线：用户/助手/工具/压缩/上下文注入/错误，可 **★ 固定** 重要条目 |
 | **工作** | Working | 当前回合流式输出 + 固定的消息（localStorage 持久化） |

@@ -1,7 +1,7 @@
 {
   "name": "dsh-ui-hud",
-  "version": "0.2.0",
-  "description": "DSH 状态 HUD + 记忆中心 v2：实时 token 吞吐、上下文雷达（构成占比）、情绪联动（跟随壁纸强调色）、快捷键中心、会话级固定记忆；状态栏 HUD（状态/模型/token/压力/任务/goal）+ 四类记忆可视化。",
+  "version": "0.2.1",
+  "description": "DSH 状态 HUD + 记忆中心 v2.1：可拖动悬浮状态栏（位置记忆）、实时 token 吞吐、上下文雷达、情绪联动、会话级固定记忆 + 四类记忆可视化。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
