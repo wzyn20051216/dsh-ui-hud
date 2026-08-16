@@ -1,7 +1,7 @@
 {
   "name": "dsh-ui-hud",
-  "version": "0.2.2",
-  "description": "DSH 状态 HUD + 记忆中心 v2.2：可拖动状态栏（位置记忆）+ 抽屉关闭修复（z-index 提升/自动收起）+ UI 装饰（完成脉冲/页签指示/渐变）+ 实时吞吐/上下文雷达/情绪联动。",
+  "version": "0.2.3",
+  "description": "DSH 状态 HUD + 记忆中心 v2.3：可拖动状态栏 + 记忆抽屉（点抽屉外任意位置/页面内容即收起、点击穿透不拦截、X/Esc/遮罩均可关）+ 实时吞吐/上下文雷达/情绪联动。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
