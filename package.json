@@ -1,7 +1,7 @@
 {
   "name": "dsh-ui-hud",
-  "version": "0.1.0",
-  "description": "DSH Web 状态 HUD + 会话记忆中心：底部状态栏（模型/状态/token/上下文压力/后台任务/goal）+ 记忆抽屉（工作/情景/语义/感知四类记忆可视化，受 hello-agents 第8章启发）+ 快捷操作。",
+  "version": "0.2.0",
+  "description": "DSH 状态 HUD + 记忆中心 v2：实时 token 吞吐、上下文雷达（构成占比）、情绪联动（跟随壁纸强调色）、快捷键中心、会话级固定记忆；状态栏 HUD（状态/模型/token/压力/任务/goal）+ 四类记忆可视化。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
