@@ -25,6 +25,14 @@
     "ui",
     "web-ui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzyn20051216/dsh-ui-hud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wzyn20051216/dsh-ui-hud/issues"
+  },
+  "homepage": "https://github.com/wzyn20051216/dsh-ui-hud#readme",
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
