@@ -4,7 +4,7 @@
 
 **DSH（DeepSeek Harness）状态 HUD + 会话记忆中心** —— 填补生态空白的 UI 增强插件：VSCode 式底部状态栏 HUD + 四种记忆类型可视化面板。
 
-[![npm version](https://img.shields.io/npm/v/dsh-ui-hud?color=4f83f2&label=npm)](https://www.npmjs.com/package/dsh-ui-hud)
+[![version](https://img.shields.io/github/v/tag/wzyn20051216/dsh-ui-hud?color=4f83f2&label=version)](https://github.com/wzyn20051216/dsh-ui-hud/releases)
 [![license](https://img.shields.io/github/license/wzyn20051216/dsh-ui-hud?color=34d399)](LICENSE)
 [![dsh](https://img.shields.io/badge/dsh-0.1.0--rc.6-blueviolet)](https://github.com/deepseek-ai/deepseek-harness)
 [![node](https://img.shields.io/badge/node-%3E%3D18-6d9af6)](package.json)
@@ -120,3 +120,4 @@ dsh-ui-hud/
 ## 📄 License
 
 [MIT](LICENSE)
+
