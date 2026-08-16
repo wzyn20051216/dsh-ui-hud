@@ -1,5 +1,16 @@
 <div align="center">
 
+# ⚠️ 已迁移：本仓库已合并到全家桶主仓库
+
+> **dsh-ui-hud 已并入 [wzyn20051216/dsh-mood-wallpaper](https://github.com/wzyn20051216/dsh-mood-wallpaper)（monorepo 全家桶）**，本仓库仅保留历史存档，不再更新。
+>
+> 最新代码位于主仓库 `packages/dsh-ui-hud/`；一键安装：
+> ```powershell
+> irm https://raw.githubusercontent.com/wzyn20051216/dsh-mood-wallpaper/master/install.ps1 | iex
+> ```
+
+---
+
 # dsh-ui-hud 🧠
 
 **DSH（DeepSeek Harness）状态 HUD + 会话记忆中心** —— 填补生态空白的 UI 增强插件：VSCode 式**可拖动**状态栏 HUD + 四种记忆类型可视化面板。
